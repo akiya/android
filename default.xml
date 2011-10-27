@@ -58,7 +58,6 @@
   <project path="device/htc/vision" name="CyanogenMod/android_device_htc_vision" />
   <project path="device/htc/vivo" name="CyanogenMod/android_device_htc_vivo" />
   <project path="device/htc/vivow" name="CyanogenMod/android_device_htc_vivow" />
-  <project path="device/lge/elini" name="y10g/android_device_lge_elini" revision="master" />
   <project path="device/lge/p990" name="CyanogenMod/android_device_lge_p990" />
   <project path="device/lge/p999" name="CyanogenMod/android_device_lge_p999" />
   <project path="device/lge/star-common" name="CyanogenMod/android_device_lge_star-common" />
@@ -315,7 +314,6 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
   <project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" />
 
-  <project path="vendor/cyanogen" name="y10g/android_vendor_cyanogen" />
   <project path="vendor/qcom/opensource/webkit" name="CyanogenMod/android_vendor_qcom_opensource_webkit" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
@@ -323,7 +321,10 @@
   <project path="vendor/tmobile/themes/Androidian" name="CyanogenMod/android_vendor_tmobile_themes_Androidian" />
   <project path="vendor/tmobile/themes/Cyanbread" name="CyanogenMod/android_vendor_tmobile_themes_Cyanbread" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
-
-  <project path="android" name="CyanogenMod/android" />
-
+  
+  <project path="vendor/cyanogen" name="y10g/android_vendor_cyanogen" />
+  <project path="device/lge/elini" name="y10g/android_device_lge_elini" revision="master" />
+  <project path="android" name="y10g/android" />
+  <project path="kernel" name="y10g/elini_kernel" revision="master"/>
+  
 </manifest>

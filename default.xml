@@ -326,5 +326,6 @@
   <project path="device/lge/elini" name="y10g/android_device_lge_elini" revision="master" />
   <project path="android" name="y10g/android" />
   <project path="kernel" name="y10g/elini_kernel" revision="master"/>
-  
+  <project path="packages/inputmethods/OpenWnn" name="y10g/android_packages_inputmethods_OpenWnn" revision="master" />
+
 </manifest>

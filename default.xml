@@ -326,11 +326,11 @@
   <project path="vendor/tmobile/themes/Cyanbread" name="CyanogenMod/android_vendor_tmobile_themes_Cyanbread" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
   
-  <project path="frameworks/base" name="y10g/android_frameworks_base" />
-  <project path="vendor/cyanogen" name="y10g/android_vendor_cyanogen" />
-  <project path="device/lge/elini" name="y10g/android_device_lge_elini" revision="master" />
-  <project path="android" name="y10g/android" />
-  <project path="kernel" name="y10g/elini_kernel" revision="master"/>
-  <project path="packages/inputmethods/OpenWnn" name="y10g/android_packages_inputmethods_OpenWnn" revision="master" />
+  <project path="frameworks/base" name="akiya/android_frameworks_base" />
+  <project path="vendor/cyanogen" name="akiya/android_vendor_cyanogen" />
+  <project path="device/lge/elini" name="akiya/android_device_lge_elini" revision="master" />
+  <project path="android" name="akiya/android" />
+  <project path="kernel" name="akiya/elini_kernel" revision="master"/>
+  <project path="packages/inputmethods/OpenWnn" name="akiya/android_packages_inputmethods_OpenWnn" revision="master" />
 
 </manifest>

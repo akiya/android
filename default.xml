@@ -260,6 +260,4 @@
   <project path="device/lge/elini" name="akiya/android_device_lge_elini" revision="master" />
   <project path="android" name="akiya/android" />
   <project path="kernel" name="akiya/elini_kernel" revision="master"/>
-
-  <project path="android" name="CyanogenMod/android" />
 </manifest>

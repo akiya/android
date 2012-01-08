@@ -261,7 +261,7 @@
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
 
-  <project path="device/lge/elini" name="akiya/android_device_lge_elini" revision="master" />
   <project path="android" name="akiya/android" />
+  <project path="device/lge/elini" name="akiya/android_device_lge_elini" revision="master" />
   <project path="kernel" name="akiya/elini_kernel" revision="master"/>
 </manifest>

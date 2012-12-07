@@ -20,7 +20,9 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
+<!--
   <project path="android" name="CyanogenMod/android" />
+-->
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" />
   <project path="bionic" name="CyanogenMod/android_bionic" />
@@ -335,4 +337,10 @@
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
+
+  <project path="android" name="akiya/android" />
+  <project path="kernel" name="akiya/elini_kernel" revision="master" />
+<!--
+  <project path="device/lge/elini" name="akiya/android_device_lge_elini" />
+-->
 </manifest>
